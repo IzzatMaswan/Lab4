@@ -58,5 +58,7 @@ if ($_POST["name"] && $_POST["comments"] && $_POST["email"] && $_POST["gender"])
     "</i></p>"; 
     echo $message;
     }
+
+?>
 </body>
 </html>
